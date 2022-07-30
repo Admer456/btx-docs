@@ -3,8 +3,10 @@
 
 Admittedly I am far, far from a web dev, but I managed to scramble up a little documentation website for the engine. This repository hosts the relevant engine sources & scripts used to generate the docs.
 
+NOTE: Under construction, come back in early 2023.
+
 ## Where is it?
-If you wanna see the documentation itself, go here now: (todo: link pls)
+If you wanna see the documentation itself, go here now: https://admer456.github.io/btx-docs/
 
 ## I wanna build it myself
 In case you want an offline copy, or contribute to the docs, here's how to generate (after cloning **with** submodules initialised):  
